@@ -2,7 +2,34 @@
 body {
     background-color: rgb(219, 215, 215);
     font-family: Arial, Helvetica, sans-serif;
+    margin-top: 2px;
+    padding: 2px;
+    color: black;
+    border-top: 10px solid ;
+    
+}
+ h1{
+    text-align: center;
+}
+section{
+    
+}
+main{
+    display: flex;
 }
 img{
-    width: = 100%;
+    width: 100%;
 }
+nav ul {
+    background: #ccc;
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    justify-content: space-around;
+}
+
+nav ul li{
+    
+}
+
